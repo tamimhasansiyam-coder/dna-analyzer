@@ -1,0 +1,15 @@
+
+[project]
+name = "dna-protein-analyzer"
+version = "1.0.0"
+description = "DNA Sequence and Protein Analysis Application"
+requires-python = ">=3.10"
+dependencies = [
+    "flet"
+]
+
+[tool.flet]
+org = "com.tamim"
+product = "DNA Analyzer"
+company = "Tamim Hasan"
+copyright = "Copyright 2026 Tamim Hasan"
