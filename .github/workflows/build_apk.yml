@@ -41,6 +41,7 @@ jobs:
             autoconf \
             automake \
             libtool \
+            libltdl-dev \
             pkg-config \
             cmake \
             libffi-dev \
