@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [tool.flet]
-org = "com.tamim"
+org = "com.tuli"
 product = "DNA Analyzer"
-company = "Tamim Hasan"
-copyright = "Copyright 2026 Tamim Hasan"
+company = "Sanjida Tuli"
+copyright = "Copyright 2026 Sanjida Tuli"
